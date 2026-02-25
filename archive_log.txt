@@ -1,0 +1,9 @@
+
+---
+
+## 🚀 Usage
+
+### 1️⃣ Make Script Executable
+
+```bash
+chmod +x log-archive.sh
